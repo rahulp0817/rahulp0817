@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul Pradhan
 - 👀 I’m interested in python
-- 🌱 I’m currently learning ML and Python
+- 🌱 I’m currently learning more about cloud and Python
 - 💞️ I’m looking to collaborate on companies and rereachers 
 - 📫 I lived in Bangaluru 
 
