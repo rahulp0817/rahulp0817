@@ -15,13 +15,6 @@ Passionate software developer specializing in building scalable web applications
 - Web Application Architecture
 - Scalable System Design
 
-## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
-- Email: [Your Professional Email]
-
 ## 🏆 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulp0817&show_icons=true&theme=radical)
 
-## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
