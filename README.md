@@ -15,6 +15,6 @@ Passionate software developer specializing in building scalable web, mobile appl
 - Web Application Architecture
 - Scalable System Design
 
-## 🏆 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulp0817&show_icons=true&theme=radical)
+<!--  ## 🏆 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulp0817&show_icons=true&theme=radical) -->
 
